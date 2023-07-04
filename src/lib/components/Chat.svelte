@@ -13,8 +13,7 @@
 	
 
 	<div class="bg-color:gray flex flex-col lg:flex-row justify-center gap-5 xl:gap-10">
-		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full shadow-lg">
-			<!-- Header -->
+		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-[60%] shadow-lg">
 			<div class="flex items-center justify-center p-2 lg:container lg:mx-auto">
 				<div class="">
 					<a href="#" class="font-bold text-primary text-2xl">Github Chat</a>
@@ -22,13 +21,12 @@
 			</div>
 			<hr>
 			<div class="p-4 xl:p-10">
-				<!-- MSG 1 -->
 				<div class="chat chat-start">
 					<div class="chat-image avatar">
 						<div class="w-10 rounded-full">
 							<img
 								alt="avatar"
-								src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.25&w=256&h=256&q=80"
+								src="https://avatars.githubusercontent.com/u/63298243?v=4"
 							/>
 						</div>
 					</div>
@@ -36,17 +34,16 @@
 						이준원
 						<time class="text-xs opacity-50">12:45</time>
 					</div>
-					<div class="chat-bubble"><a href="https://github.com/cpprhtn" class="underline" target="_blank">cpprhtn</a></div>
+					<div class="chat-bubble"><a href="https://github.com/cpprhtn" class="underline" target="_blank">@cpprhtn</a></div>
 					<div class="chat-footer opacity-50">Delivered</div>
 				</div>
 
-				<!-- MSG 2 -->
 				<div class="chat chat-start">
 					<div class="chat-image avatar">
 						<div class="w-10 rounded-full">
 							<img
 								alt="avatar"
-								src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+								src="https://avatars.githubusercontent.com/u/54111883?v=4"
 							/>
 						</div>
 					</div>
@@ -54,18 +51,84 @@
 						추영욱
 						<time class="text-xs opacity-50">12:48</time>
 					</div>
-					<div class="chat-bubble"><a href="https://github.com/choo121600" class="underline" target="_blank">choo121600</a></div>
+					<div class="chat-bubble"><a href="https://github.com/choo121600" class="underline" target="_blank">@choo121600</a></div>
 					<div class="chat-footer opacity-50">Delivered</div>
 				</div>
 
-				<!-- MSG 3 -->
+				<div class="chat chat-start">
+					<div class="chat-image avatar">
+						<div class="w-10 rounded-full">
+							<img
+								alt="avatar"
+								src="https://avatars.githubusercontent.com/u/25046121?v=4"
+							/>
+						</div>
+					</div>
+					<div class="chat-header">
+						김현우
+						<time class="text-xs opacity-50">12:48</time>
+					</div>
+					<div class="chat-bubble"><a href="https://github.com/Coalery" class="underline" target="_blank">@Coalery</a></div>
+					<div class="chat-footer opacity-50">Delivered</div>
+				</div>
+
+				<div class="chat chat-start">
+					<div class="chat-image avatar">
+						<div class="w-10 rounded-full">
+							<img
+								alt="avatar"
+								src="https://avatars.githubusercontent.com/u/52674782?v=4"
+							/>
+						</div>
+					</div>
+					<div class="chat-header">
+						이지성
+						<time class="text-xs opacity-50">12:48</time>
+					</div>
+					<div class="chat-bubble"><a href="https://github.com/easycastle" class="underline" target="_blank">@easycastle</a></div>
+					<div class="chat-footer opacity-50">Delivered</div>
+				</div>
+
+				<div class="chat chat-start">
+					<div class="chat-image avatar">
+						<div class="w-10 rounded-full">
+							<img
+								alt="avatar"
+								src="https://avatars.githubusercontent.com/u/65693861?v=4"
+							/>
+						</div>
+					</div>
+					<div class="chat-header">
+						박정식
+						<time class="text-xs opacity-50">12:48</time>
+					</div>
+					<div class="chat-bubble"><a href="https://github.com/sat0317" class="underline" target="_blank">@sat0317</a></div>
+					<div class="chat-footer opacity-50">Delivered</div>
+				</div>
+
+				<div class="chat chat-start">
+					<div class="chat-image avatar">
+						<div class="w-10 rounded-full">
+							<img
+								alt="avatar"
+								src="https://avatars.githubusercontent.com/u/79389316?v=4"
+							/>
+						</div>
+					</div>
+					<div class="chat-header">
+						정재현
+						<time class="text-xs opacity-50">12:48</time>
+					</div>
+					<div class="chat-bubble"><a href="https://github.com/SeoLanee" class="underline" target="_blank">@SeoLanee</a></div>
+					<div class="chat-footer opacity-50">Delivered</div>
+				</div>
+
 				<Test/>
 
 			</div>
 		</div>
-		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full shadow-lg">
+		<!-- <div class="flex flex-col justify-between bg-base-100 rounded-lg w-full shadow-lg">
 			<div class="p-4 xl:p-10">
-				<!-- MSG 1 -->
 				<div class="chat chat-start">
 					<div class="chat-image avatar">
 						<div class="w-10 rounded-full">
@@ -83,7 +146,6 @@
 					<div class="chat-footer opacity-50">Delivered</div>
 				</div>
 
-				<!-- MSG 2 -->
 				<div class="chat chat-end">
 					<div class="chat-image avatar">
 						<div class="w-10 rounded-full">
@@ -101,7 +163,6 @@
 					<div class="chat-footer opacity-50">Seen at 12:46</div>
 				</div>
 
-				<!-- MSG 3 -->
 				<div class="chat chat-end">
 					<div class="chat-image avatar">
 						<div class="w-10 rounded-full">
@@ -122,7 +183,6 @@
 		</div>
 		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full shadow-lg">
 			<div class="p-4 xl:p-10">
-				<!-- MSG 1 -->
 				<div class="chat chat-start">
 					<div class="chat-image avatar">
 						<div class="w-10 rounded-full">
@@ -140,7 +200,6 @@
 					<div class="chat-footer opacity-50">Delivered</div>
 				</div>
 
-				<!-- MSG 2 -->
 				<div class="chat chat-start">
 					<div class="chat-image avatar">
 						<div class="w-10 rounded-full">
@@ -158,7 +217,6 @@
 					<div class="chat-footer opacity-50">Delivered</div>
 				</div>
 
-				<!-- MSG 3 -->
 				<div class="chat chat-end">
 					<div class="chat-image avatar">
 						<div class="w-10 rounded-full">
@@ -176,6 +234,6 @@
 					<div class="chat-footer opacity-50">Seen at 12:46</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 	</div>
 </div>

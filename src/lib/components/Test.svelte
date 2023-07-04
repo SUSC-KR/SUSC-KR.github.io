@@ -59,7 +59,7 @@
     {/each}
   </div>
   
-  <div>
-    <input type="text" bind:value="{message}" placeholder="Github name" on:keydown="{handleKeyDown}" on:input="{handleInput}"/>
+  <div class="m-15">
+    <input type="text" bind:value="{message}" placeholder="Input your github name" on:keydown="{handleKeyDown}" on:input="{handleInput}"/>
     <button on:click="{sendMessage}">Send</button>
   </div>
