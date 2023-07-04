@@ -1,3 +1,10 @@
+<div class="bg-base-100 sticky top-0 shadow-lg z-40 p-3">
+	<div class="flex items-center justify-between p-2 lg:container lg:mx-auto">
+		<div class="">
+			<a href="/" class="font-bold text-primary text-2xl">SUSC</a>
+		</div>
+	</div>
+</div>
 <div
 	class="hero h-[100vh] lg:h-[45rem] shadow-lg"
 	style="background-image: url('https://images.unsplash.com/photo-1644325349124-d1756b79dd42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2675&q=80');"

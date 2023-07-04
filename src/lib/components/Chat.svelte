@@ -8,8 +8,15 @@
 	</div>
 	
 
-	<div class="flex flex-col lg:flex-row justify-center gap-5 xl:gap-10">
+	<div class="bg-color:gray flex flex-col lg:flex-row justify-center gap-5 xl:gap-10">
 		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full shadow-lg">
+			<!-- Header -->
+			<div class="flex items-center justify-center p-2 lg:container lg:mx-auto">
+				<div class="">
+					<a href="#" class="font-bold text-primary text-2xl">Github Chat</a>
+				</div>
+			</div>
+			<hr>
 			<div class="p-4 xl:p-10">
 				<!-- MSG 1 -->
 				<div class="chat chat-start">
@@ -25,7 +32,7 @@
 						이준원
 						<time class="text-xs opacity-50">12:45</time>
 					</div>
-					<div class="chat-bubble">Hello world</div>
+					<div class="chat-bubble"><a href="https://github.com/cpprhtn" class="underline" target="_blank">cpprhtn</a></div>
 					<div class="chat-footer opacity-50">Delivered</div>
 				</div>
 

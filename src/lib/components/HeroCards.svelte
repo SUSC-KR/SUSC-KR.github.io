@@ -60,7 +60,7 @@
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center w-full">
-			<h1 class="text-3xl font-bold">논문 리딩</h1>
+			<h1 class="text-3xl font-bold">연구 활동 및 주제 탐구</h1>
 			<!-- <p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
