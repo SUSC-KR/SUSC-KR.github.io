@@ -1,39 +1,50 @@
+<style>
+	table {
+	  width: 100%;
+	  border-top: 1px solid #444444;
+	  border-collapse: collapse;
+	}
+	th, td {
+	  border-bottom: 1px solid #444444;
+	  padding: 10px;
+	}
+  </style>
+
 <div class="p-4 xl:p-10 bg-base-300 my-10 rounded-lg">
 	<div class="max-w-lg mx-auto pb-10">
 		<div class="text-3xl font-bold text-center my-5">참여 동아리</div>
 		<div class="text-lg text-center my-5 border-b-2">
-
-			<table class="table-fixed text-center mx-auto text-xl my-2">
+			<table class="table-auto text-xl mx-auto bg-gray-100">
 				<thead>
 				  <tr>
-					<th>대학교</th>
-					<th>동아리</th>
+					<th class="px-4 py-2">대학교</th>
+					<th class="px-4 py-2">동아리</th>
 				  </tr>
 				</thead>
-				<tbody class="text-left">
+				<tbody>
 				  <tr>
-					<td class="p-4">경북대학교</td>
-					<td class="p-4">KERT</td>
+					<td class="border px-4 py-2">경북대학교</td>
+					<td class="border px-4 py-2">KERT</td>
 				  </tr>
 				  <tr>
-					<td class="p-4">경희대학교</td>
-					<td class="p-4">KHLUG</td>
+					<td class="border px-4 py-2">경희대학교</td>
+					<td class="border px-4 py-2">KHLUG</td>
 				  </tr>
 				  <tr>
-					<td class="p-4">동아대학교</td>
-					<td class="p-4">MLP</td>
+					<td class="border px-4 py-2">동아대학교</td>
+					<td class="border px-4 py-2">MLP</td>
 				  </tr>
 				  <tr>
-					<td class="p-4">서강대학교</td>
-					<td class="p-4">보안 동아리</td>
+					<td class="border px-4 py-2">서강대학교</td>
+					<td class="border px-4 py-2">보안 동아리</td>
 				  </tr>
 				  <tr>
-					<td class="p-4">한국해양대학교</td>
-					<td class="p-4">Bet A</td>
+					<td class="border px-4 py-2">한국해양대학교</td>
+					<td class="border px-4 py-2">Bet A</td>
 				  </tr>
 				  <tr>
-					<td class="p-4">한양대학교</td>
-					<td class="p-4">자람</td>
+					<td class="border px-4 py-2">한양대학교</td>
+					<td class="border px-4 py-2">자람</td>
 				  </tr>
 				</tbody>
 			  </table>
@@ -58,7 +69,6 @@
 			</div>
 			<div class="stat-title">Total Members</div>
 			<div class="stat-value text-primary">142</div>
-			<!-- <div class="stat-desc">3% more than last month</div> -->
 		</div>
 
 		<div class="stat">
@@ -78,7 +88,6 @@
 			</div>
 			<div class="stat-title">Number of participating universities</div>
 			<div class="stat-value text-primary-focus">6</div>
-			<!-- <div class="stat-desc">21% more than last month</div> -->
 		</div>
 
 		<!-- <div class=" stat lg:hidden xl:stat">

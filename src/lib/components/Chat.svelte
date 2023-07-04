@@ -1,3 +1,7 @@
+<script>
+	import Test from './Test.svelte';
+</script>
+
 <div class=" bg-base-300 p-4 xl:p-10 rounded-lg">
 	<div class="max-w-lg mx-auto pb-10">
 		<div class="text-3xl font-bold text-center my-5">운영진 소개</div>
@@ -50,27 +54,13 @@
 						추영욱
 						<time class="text-xs opacity-50">12:48</time>
 					</div>
-					<div class="chat-bubble">You were the Chosen One!</div>
+					<div class="chat-bubble"><a href="https://github.com/choo121600" class="underline" target="_blank">choo121600</a></div>
 					<div class="chat-footer opacity-50">Delivered</div>
 				</div>
 
 				<!-- MSG 3 -->
-				<div class="chat chat-end">
-					<div class="chat-image avatar">
-						<div class="w-10 rounded-full">
-							<img
-								alt="avatar"
-								src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
-							/>
-						</div>
-					</div>
-					<div class="chat-header">
-						Elon Musk
-						<time class="text-xs opacity-50">12:51</time>
-					</div>
-					<div class="chat-bubble bg-primary">Thanks 🙂👍</div>
-					<div class="chat-footer opacity-50">Seen at 12:46</div>
-				</div>
+				<Test/>
+
 			</div>
 		</div>
 		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full shadow-lg">
