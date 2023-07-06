@@ -11,8 +11,20 @@
   </style>
 
 <div class="p-4 xl:p-10 bg-base-300 my-10 rounded-lg">
+	<div class="text-3xl font-bold text-center my-5">status</div>
+	<div class="stats flex flex-col lg:flex-row bg-base-100 shadow-lg w-[43%] mx-auto">
+		<div class="stat">
+			<div class="stat-title">Total Members</div>
+			<div class="stat-value text-primary">142</div>
+		</div>
+		<div class="stat">
+			<div class="stat-title">Number of participating universities</div>
+			<div class="stat-value text-primary-focus">6</div>
+		</div>
+	</div>
+
 	<div class="max-w-lg mx-auto pb-10">
-		<div class="text-3xl font-bold text-center my-5">참여 동아리</div>
+		<div class="text-3xl font-bold text-center my-5 mt-20">참여 동아리</div>
 		<div class="text-lg text-center my-5 border-b-2">
 			<table class="table-auto text-xl mx-auto bg-gray-100">
 				<thead>
@@ -49,75 +61,110 @@
 				</tbody>
 			  </table>
 		</div>
+
+		<div class="text-3xl font-bold text-center my-5 mt-20">운영진 소개</div>
+		<div class="text-lg text-center my-5 border-b-2 mx-auto">
+			<table class="table-auto text-xl mx-auto bg-gray-100">
+				<thead>
+				<tr>
+					<th class="px-4 py-2">이름</th>
+					<th class="px-4 py-2">@mention</th>
+					<th class="px-4 py-2">소속</th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr>
+					<td class="border px-4 py-2">김현우</td>
+					<td class="border px-4 py-2"><a href="https://github.com/Coalery" class="underline" target="_blank">@Coalery</a></td>
+					<td class="border px-4 py-2">KHLUG 운영진</td>
+				</tr>
+				<tr>
+					<td class="border px-4 py-2">박정식</td>
+					<td class="border px-4 py-2"><a href="https://github.com/sat0317" class="underline" target="_blank">@sat0317</a></td>
+					<td class="border px-4 py-2">KHLUG 운영진</td>
+				</tr>
+				<tr>
+					<td class="border px-4 py-2">이준원</td>
+					<td class="border px-4 py-2"><a href="https://github.com/cpprhtn" class="underline" target="_blank">@cpprhtn</a></td>
+					<td class="border px-4 py-2">MLP 회장</td>
+				</tr>
+				<tr>
+					<td class="border px-4 py-2">이지성</td>
+					<td class="border px-4 py-2"><a href="https://github.com/easycastle" class="underline" target="_blank">@easycastle</a></td>
+					<td class="border px-4 py-2">KERT 임원</td>
+				</tr>
+				<tr>
+					<td class="border px-4 py-2">이현우</td>
+					<td class="border px-4 py-2"><a href="https://github.com/" class="underline" target="_blank">@???</a></td>
+					<td class="border px-4 py-2">KERT 회장</td>
+				</tr>
+				<tr>
+					<td class="border px-4 py-2">정재현</td>
+					<td class="border px-4 py-2"><a href="https://github.com/SeoLanee" class="underline" target="_blank">@SeoLanee</a></td>
+					<td class="border px-4 py-2">보안 동아리 회장</td>
+				</tr>
+				<tr>
+					<td class="border px-4 py-2">추영욱</td>
+					<td class="border px-4 py-2"><a href="https://github.com/choo121600" class="underline" target="_blank">@choo121600</a></td>
+					<td class="border px-4 py-2">Bet A 회장</td>
+				</tr>
+				</tbody>
+			</table>
+		</div>
 	</div>
+	
 
-	<div class="stats flex flex-col lg:flex-row bg-base-100 shadow-lg">
-		<div class="stat">
-			<div class="stat-figure text-primary">
-				<svg
-					xmlns="http://www.w3.org/2000/svg"
-					fill="none"
-					viewBox="0 0 24 24"
-					class="inline-block w-8 h-8 stroke-current"
-					><path
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="2"
-						d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"
-					/></svg
-				>
+	<!-- <div class=" bg-base-300 p-4 xl:p-10 rounded-lg">
+		<div class="max-w-lg mx-auto pb-10">
+			<div class="text-3xl font-bold text-center my-5 p-4 mt-8">운영진 소개</div>
+			<div class="text-lg text-center my-5 border-b-2">
+				<table class="table-auto text-xl mx-auto bg-gray-100">
+					<thead>
+					<tr>
+						<th class="px-4 py-2">이름</th>
+						<th class="px-4 py-2">@mention</th>
+						<th class="px-4 py-2">소속</th>
+					</tr>
+					</thead>
+					<tbody>
+					<tr>
+						<td class="border px-4 py-2">김현우</td>
+						<td class="border px-4 py-2"><a href="https://github.com/Coalery" class="underline" target="_blank">@Coalery</a></td>
+						<td class="border px-4 py-2">KHLUG 운영진</td>
+					</tr>
+					<tr>
+						<td class="border px-4 py-2">박정식</td>
+						<td class="border px-4 py-2"><a href="https://github.com/sat0317" class="underline" target="_blank">@sat0317</a></td>
+						<td class="border px-4 py-2">KHLUG 운영진</td>
+					</tr>
+					<tr>
+						<td class="border px-4 py-2">이준원</td>
+						<td class="border px-4 py-2"><a href="https://github.com/cpprhtn" class="underline" target="_blank">@cpprhtn</a></td>
+						<td class="border px-4 py-2">MLP 회장</td>
+					</tr>
+					<tr>
+						<td class="border px-4 py-2">이지성</td>
+						<td class="border px-4 py-2"><a href="https://github.com/easycastle" class="underline" target="_blank">@easycastle</a></td>
+						<td class="border px-4 py-2">KERT 임원</td>
+					</tr>
+					<tr>
+						<td class="border px-4 py-2">이현우</td>
+						<td class="border px-4 py-2"><a href="https://github.com/" class="underline" target="_blank">@???</a></td>
+						<td class="border px-4 py-2">KERT 회장</td>
+					</tr>
+					<tr>
+						<td class="border px-4 py-2">정재현</td>
+						<td class="border px-4 py-2"><a href="https://github.com/SeoLanee" class="underline" target="_blank">@SeoLanee</a></td>
+						<td class="border px-4 py-2">보안 동아리 회장</td>
+					</tr>
+					<tr>
+						<td class="border px-4 py-2">추영욱</td>
+						<td class="border px-4 py-2"><a href="https://github.com/choo121600" class="underline" target="_blank">@choo121600</a></td>
+						<td class="border px-4 py-2">Bet A 회장</td>
+					</tr>
+					</tbody>
+				</table>
 			</div>
-			<div class="stat-title">Total Members</div>
-			<div class="stat-value text-primary">142</div>
 		</div>
-
-		<div class="stat">
-			<div class="stat-figure text-secondary">
-				<svg
-					xmlns="http://www.w3.org/2000/svg"
-					fill="none"
-					viewBox="0 0 24 24"
-					class="inline-block w-8 h-8 stroke-current"
-					><path
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="2"
-						d="M13 10V3L4 14h7v7l9-11h-7z"
-					/></svg
-				>
-			</div>
-			<div class="stat-title">Number of participating universities</div>
-			<div class="stat-value text-primary-focus">6</div>
-		</div>
-
-		<!-- <div class=" stat lg:hidden xl:stat">
-			<div class="stat-figure text-secondary">
-				<div class="avatar online w-12">
-					<img
-						class="rounded-full"
-						alt="avatar"
-						src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
-					/>
-				</div>
-			</div>
-			<div class="stat-title">Page Views</div>
-			<div class="stat-value text-secondary">262k</div>
-			<div class="stat-desc">11% more than last month</div>
-		</div>
-
-		<div class="stat">
-			<div class="stat-figure text-secondary-focus">
-				<div class="avatar online w-12">
-					<img
-						class="rounded-full"
-						alt="avatar"
-						src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
-					/>
-				</div>
-			</div>
-			<div class="stat-title">Engineering</div>
-			<div class="stat-value text-secondary">86%</div>
-			<div class="stat-desc">79 commits across 14 repositories.</div>
-		</div> -->
-	</div>
+	</div> -->
 </div>

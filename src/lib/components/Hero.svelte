@@ -1,3 +1,6 @@
+<script>
+	import Countdown from '$lib/components/Countdown.svelte';
+</script>
 <div class="bg-base-100 sticky top-0 shadow-lg z-40 p-3">
 	<div class="flex items-center justify-between p-2 lg:container lg:mx-auto">
 		<div class="">
@@ -16,9 +19,12 @@
 			<div class="mb-10 text-xl">
 				Seasonal University study & communication
 			</div>
+
+			<Countdown />
+			<br>
 			<div class="flex gap-4 justify-center">
-				<button class="btn btn-primary transition-color duration-300 text-lg">Start Join</button>
-				<!-- <button class="btn transition-color duration-300 text-lg"></button> -->
+				<button class="btn btn-primary transition-color duration-300 text-lg">신청하기</button>
+				<button class="btn transition-color duration-300 text-lg">동아리 신청</button>
 			</div>
 		</div>
 	</div>
