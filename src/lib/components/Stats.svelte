@@ -1,15 +1,3 @@
-<style>
-	table {
-	  width: 100%;
-	  border-top: 1px solid #444444;
-	  border-collapse: collapse;
-	}
-	th, td {
-	  border-bottom: 1px solid #444444;
-	  padding: 10px;
-	}
-  </style>
-
 <div class="p-4 xl:p-10 bg-base-300 my-10 rounded-lg">
 	<div class="text-3xl font-bold text-center my-5">status</div>
 	<div class="stats flex flex-col lg:flex-row bg-base-100 shadow-lg w-[43%] mx-auto">
@@ -95,7 +83,7 @@
 				</tr>
 				<tr>
 					<td class="border px-4 py-2">이현우</td>
-					<td class="border px-4 py-2"><a href="https://github.com/" class="underline" target="_blank">@???</a></td>
+					<td class="border px-4 py-2"><a href="https://github.com/gusdndl" class="underline" target="_blank">@gusdndl</a></td>
 					<td class="border px-4 py-2">KERT 회장</td>
 				</tr>
 				<tr>
