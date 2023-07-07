@@ -159,7 +159,7 @@ background: linear-gradient(to left, #4B79A1 , #283E51);
 						보안에 입문한 이야기 및 각 보안분야별 공부 방법론
 					</td>
 				  </tr>
-				  <tr>
+				  <!-- <tr>
 					<td data-th="Supplier Code">
 						박정환
 					</td>
@@ -169,7 +169,7 @@ background: linear-gradient(to left, #4B79A1 , #283E51);
 					<td data-th="Invoice Number">
 						미정
 					</td>
-				  </tr>
+				  </tr> -->
 				  <tr>
 					<td data-th="Supplier Code">
 						임재혁
