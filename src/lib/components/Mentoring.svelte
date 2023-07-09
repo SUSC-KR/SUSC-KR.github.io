@@ -84,7 +84,7 @@
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">효과적인 논문 읽는법, 논문탐색 방법</td>
 					<td data-th="border px-4 py-2"><a href="https://docs.google.com/spreadsheets/d/1FgXdtdq1KLUUokQtxYMN3MOdAwTShl5h693Me7wiQ6A/edit?usp=sharing" target="_blank">Link</a></td>
-					<td data-th="border px-4 py-2">미정</td>
+					<td data-th="border px-4 py-2">화목토 15시~16시</td>
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">C++</td>
@@ -92,7 +92,7 @@
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">C++ 기초 및 STL 기초</td>
 					<td data-th="border px-4 py-2"><a href="https://docs.google.com/spreadsheets/d/1WlslcfPm5PFhMBs96AAMcU80EQQJzLq_LDnslzg8dKs/edit?usp=sharing" target="_blank">Link</a></td>
-					<td data-th="border px-4 py-2">미정</td>
+					<td data-th="border px-4 py-2">상시 (신청 형태)</td>
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">Python</td>
@@ -100,7 +100,7 @@
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">Python 기초 및 기본 자료구조</td>
 					<td data-th="border px-4 py-2"><a href="https://docs.google.com/spreadsheets/d/1CkQqjKJ_PnUm7yMUBK2YVpRN4DgSPDdqs1NuKZ7_zr4/edit?usp=sharing" target="_blank">Link</a></td>
-					<td data-th="border px-4 py-2">미정</td>
+					<td data-th="border px-4 py-2">상시 (신청 형태)</td>
 				  </tr>
 				</tbody>
 			  </table>
