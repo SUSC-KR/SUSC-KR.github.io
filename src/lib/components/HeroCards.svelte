@@ -134,68 +134,35 @@ background: linear-gradient(to left, #4B79A1 , #283E51);
 
 <div class="hero min-h-full bg-base-200 rounded-lg">
 	<div class="hero-content flex-col lg:flex-row xl:gap-32">
-		<!-- <img
-			alt="hero"
-			src="https://images.unsplash.com/photo-1586543354240-2187898bb2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGNvbGxhYm9yYXRpb258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
-			class="h-80 w-full object-cover rounded-lg shadow-lg"
-		/> -->
-
-		<div class="container">
-			  <table class="rwd-table">
+		<div class="text-lg text-center my-5 border-b-2">
+			<table class="table-auto text-xl mx-auto bg-gray-100">
+				<thead>
+				  <tr>
+					<th class="px-4 py-2">연사자</th>
+					<th class="px-4 py-2">분야</th>
+					<th class="px-4 py-2">내용</th>
+				  </tr>
+				</thead>
 				<tbody>
 				  <tr>
-					<th>연사자</th>
-					<th>주제</th>
-					<th>내용</th>
+					<td class="border px-4 py-2">정상수</td>
+					<td class="border px-4 py-2">보안</td>
+					<td class="border px-4 py-2">보안에 입문한 이야기 및 각 보안분야별 공부 방법론</td>
 				  </tr>
 				  <tr>
-					<td data-th="Supplier Code">
-						정상수
-					</td>
-					<td data-th="Supplier Name">
-						보안
-					</td>
-					<td data-th="Invoice Number">
-						보안에 입문한 이야기 및 각 보안분야별 공부 방법론
-					</td>
-				  </tr>
-				  <!-- <tr>
-					<td data-th="Supplier Code">
-						박정환
-					</td>
-					<td data-th="Supplier Name">
-						AI
-					</td>
-					<td data-th="Invoice Number">
-						미정
-					</td>
-				  </tr> -->
-				  <tr>
-					<td data-th="Supplier Code">
-						임재혁
-					</td>
-					<td data-th="Supplier Name">
-						보안/블록체인
-					</td>
-					<td data-th="Invoice Number">
-						블록체인이 해킹되는 과정을 다룬 이야기
-					</td>
+					<td class="border px-4 py-2">임재혁</td>
+					<td class="border px-4 py-2">보안/블록체인</td>
+					<td class="border px-4 py-2">블록체인이 해킹되는 과정을 다룬 이야기</td>
 				  </tr>
 				  <tr>
-					<td data-th="Supplier Code">
-						옥찬호
-					</td>
-					<td data-th="Supplier Name">
-						C++/Rust
-					</td>
-					<td data-th="Invoice Number">
-						대학생때 알았다면 좋았을것들
-					</td>
+					<td class="border px-4 py-2">옥찬호</td>
+					<td class="border px-4 py-2">C++/Rust</td>
+					<td class="border px-4 py-2">대학생때 알았다면 좋았을것들</td>
 				  </tr>
 				</tbody>
 			  </table>
-			</div>
-
+		</div>
+		
 		<div class="text-center max-w-lg">
 			<h1 class="text-3xl font-bold">전문 분야별 세미나</h1>
 			<!-- <p class="py-6">
@@ -211,11 +178,11 @@ background: linear-gradient(to left, #4B79A1 , #283E51);
 	<div class="hero-content flex-col lg:flex-row-reverse xl:gap-32">
 		<img
 			alt="hero"
-			src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sbGFib3JhdGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
-			class="h-80 w-full object-cover rounded-lg shadow-lg"
+			src="/mentors.png"
+			class="h-80 w-[80%] object-cover rounded-lg shadow-lg"
 		/>
-		<div class="text-center max-w-lg">
-			<h1 class="text-3xl font-bold">현업 전문가 멘토링</h1>
+		<div class="text-center w-full">
+			<h1 class="text-3xl font-bold">현업 전문가<br> 멘토링</h1>
 			<!-- <p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
@@ -234,10 +201,10 @@ background: linear-gradient(to left, #4B79A1 , #283E51);
 	<div class="hero-content flex-col lg:flex-row xl:gap-32">
 		<img
 			alt="hero"
-			src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+			src="/proj.jpg"
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
-		<div class="text-center max-w-lg">
+		<div class="text-center w-auto">
 			<h1 class="text-3xl font-bold">프로젝트 및 공모전</h1>
 			<!-- <p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
@@ -252,7 +219,7 @@ background: linear-gradient(to left, #4B79A1 , #283E51);
 	<div class="hero-content flex-col lg:flex-row-reverse xl:gap-32">
 		<img
 			alt="hero"
-			src="https://images.unsplash.com/photo-1590859808308-3d2d9c515b1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1748&q=80"
+			src="papers.jpg"
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center w-full">

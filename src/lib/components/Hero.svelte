@@ -10,7 +10,7 @@
 </div>
 <div
 	class="hero h-[100vh] lg:h-[45rem] shadow-lg"
-	style="background-image: url('https://images.unsplash.com/photo-1644325349124-d1756b79dd42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2675&q=80');"
+	style="background-image: url('/banner.png');"
 >
 	<div class="hero-overlay bg-opacity-70" />
 	<div class="hero-content text-neutral-content">
@@ -23,8 +23,8 @@
 			<Countdown />
 			<br>
 			<div class="flex gap-4 justify-center">
-				<button class="btn btn-primary transition-color duration-300 text-lg">신청하기</button>
-				<button class="btn transition-color duration-300 text-lg">동아리 신청</button>
+				<button class="btn btn-primary transition-color duration-300 text-lg"><a href="https://forms.gle/tPQ9oBb8oTsQh9jT8" target="_blank">신청하기</a></button>
+				<button class="btn transition-color duration-300 text-lg">동아리 문의하기</button>
 			</div>
 		</div>
 	</div>
