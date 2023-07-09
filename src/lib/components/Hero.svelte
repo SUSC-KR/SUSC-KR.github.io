@@ -23,7 +23,7 @@
 			<Countdown />
 			<br>
 			<div class="flex gap-4 justify-center">
-				<button class="btn btn-primary transition-color duration-300 text-lg"><a href="https://forms.gle/tPQ9oBb8oTsQh9jT8" target="_blank">신청하기</a></button>
+				<a href="https://forms.gle/tPQ9oBb8oTsQh9jT8" target="_blank"><button class="btn btn-primary transition-color duration-300 text-lg">신청하기</button></a>
 				<button class="btn transition-color duration-300 text-lg">동아리 문의하기</button>
 			</div>
 		</div>

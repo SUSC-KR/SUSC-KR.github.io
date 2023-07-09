@@ -188,11 +188,11 @@ background: linear-gradient(to left, #4B79A1 , #283E51);
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
 			</p> -->
 			<br>
-			<button class="btn btn-primary w-full"><a
-				href="{base}/mentoring"
-			>
-				<div>Get Started</div>
-			</a></button>
+			<a href="{base}/mentoring">
+				<button class="btn btn-primary w-full">
+					<div>TimeTable</div>
+				</button>
+			</a>
 		</div>
 	</div>
 </div>
