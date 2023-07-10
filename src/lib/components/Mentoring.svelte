@@ -40,7 +40,7 @@
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">벡엔드</td>
-					<td data-th="border px-4 py-2">컴공돌이 멘토</td>
+					<td data-th="border px-4 py-2">멘토</td>
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">미정</td>
 					<td data-th="border px-4 py-2"></td>
