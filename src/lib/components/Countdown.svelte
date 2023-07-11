@@ -38,12 +38,12 @@
 	  align-items: center;
 	  /* background-color: #f0f0f0; */
 	  border-radius: 10px;
-	  padding: 10px;
+	  padding: 15px;
 	  /* color: #333; */
 	}
   
 	.countdown-value {
-	  font-size: 30px;
+	  font-size: 28px;
 	  font-weight: bold;
 	}
   
@@ -52,31 +52,21 @@
 	}
   </style>
 
-  
-  <div class="grid grid-flow-col gap-5 text-center auto-cols-max countdown-container">
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content countdown-item">
-	  <span class="countdown font-mono text-5xl countdown-value">
-		<span style="--value: {days};">{days}</span>
-	  </span>
-	  days
+<div class="countdown-container">
+	<div class="countdown-item bg-neutral font-mono">
+	  <span class="countdown-value"><span style="--value: {days};">{days}</span></span>
+	  <span class="countdown-label">days</span>
 	</div>
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content countdown-item">
-	  <span class="countdown font-mono text-5xl countdown-value">
-		<span style="--value: {hours};">{hours}</span>
-	  </span>
-	  hours
+	<div class="countdown-item bg-neutral">
+	  <span class="countdown-value"><span style="--value: {hours};">{hours}</span></span>
+	  <span class="countdown-label">hours</span>
 	</div>
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content countdown-item">
-	  <span class="countdown font-mono text-5xl countdown-value">
-		<span style="--value: {minutes};">{minutes}</span>
-	  </span>
-	  min
+	<div class="countdown-item bg-neutral">
+	  <span class="countdown-value"><span style="--value: {minutes};">{minutes}</span></span>
+	  <span class="countdown-label">min</span>
 	</div>
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content countdown-item">
-	  <span class="countdown font-mono text-5xl countdown-value">
-		<span style="--value: {seconds};">{seconds}</span>
-	  </span>
-	  sec
+	<div class="countdown-item bg-neutral">
+	  <span class="countdown-value"><span style="--value: {seconds};">{seconds}</span></span>
+	  <span class="countdown-label">sec</span>
 	</div>
   </div>
-  
