@@ -40,11 +40,11 @@
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">벡엔드</td>
-					<td data-th="border px-4 py-2">멘토</td>
+					<td data-th="border px-4 py-2">이수영</td>
 					<td data-th="border px-4 py-2">스터디</td>
-					<td data-th="border px-4 py-2">미정</td>
+					<td data-th="border px-4 py-2">Java & Spring Boot로 구현하는 웹 게시판</td>
 					<td data-th="border px-4 py-2"></td>
-					<td data-th="border px-4 py-2">미정</td>
+					<td data-th="border px-4 py-2">화목토 21~22시</td>
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">플러터</td>
