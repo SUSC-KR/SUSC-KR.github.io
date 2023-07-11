@@ -1,30 +1,3 @@
-<!-- <div class="grid grid-flow-col gap-5 text-center auto-cols-max">
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content">
-		<span class="countdown font-mono text-5xl">
-			<span style="--value:15;" />
-		</span>
-		days
-	</div>
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content">
-		<span class="countdown font-mono text-5xl">
-			<span style="--value:10;" />
-		</span>
-		hours
-	</div>
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content">
-		<span class="countdown font-mono text-5xl">
-			<span style="--value:24;" />
-		</span>
-		min
-	</div>
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content">
-		<span class="countdown font-mono text-5xl">
-			<span style="--value:38;" />
-		</span>
-		sec
-	</div>
-</div> -->
-
 <script>
 	import { onMount } from 'svelte';
   
@@ -51,27 +24,56 @@
 	});
   </script>
   
-  <div class="grid grid-flow-col gap-5 text-center auto-cols-max">
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content">
-	  <span class="countdown font-mono text-5xl">
+  <style>
+	.countdown-container {
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	  gap: 10px;
+	}
+  
+	.countdown-item {
+	  display: flex;
+	  flex-direction: column;
+	  align-items: center;
+	  /* background-color: #f0f0f0; */
+	  border-radius: 10px;
+	  padding: 10px;
+	  /* color: #333; */
+	}
+  
+	.countdown-value {
+	  font-size: 30px;
+	  font-weight: bold;
+	}
+  
+	.countdown-label {
+	  font-size: 12px;
+	}
+  </style>
+
+  
+  <div class="grid grid-flow-col gap-5 text-center auto-cols-max countdown-container">
+	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content countdown-item">
+	  <span class="countdown font-mono text-5xl countdown-value">
 		<span style="--value: {days};">{days}</span>
 	  </span>
 	  days
 	</div>
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content">
-	  <span class="countdown font-mono text-5xl">
+	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content countdown-item">
+	  <span class="countdown font-mono text-5xl countdown-value">
 		<span style="--value: {hours};">{hours}</span>
 	  </span>
 	  hours
 	</div>
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content">
-	  <span class="countdown font-mono text-5xl">
+	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content countdown-item">
+	  <span class="countdown font-mono text-5xl countdown-value">
 		<span style="--value: {minutes};">{minutes}</span>
 	  </span>
 	  min
 	</div>
-	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content">
-	  <span class="countdown font-mono text-5xl">
+	<div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content countdown-item">
+	  <span class="countdown font-mono text-5xl countdown-value">
 		<span style="--value: {seconds};">{seconds}</span>
 	  </span>
 	  sec
