@@ -1,3 +1,7 @@
+<script>
+  import Card from "./Card.svelte";
+
+</script>
 <div class=" bg-base-300 p-4 xl:p-10 rounded-lg w-[100%]">
 	<div class="mx-auto pb-10 w-[100%]">
 		<div class="text-3xl font-bold text-center my-5">멘토링 TimeTable</div>
@@ -43,7 +47,7 @@
 					<td data-th="border px-4 py-2">이수영</td>
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">Java & Spring Boot로 구현하는 웹 게시판</td>
-					<td data-th="border px-4 py-2"></td>
+					<td data-th="border px-4 py-2"><a href="https://piquant-increase-d76.notion.site/Spring-Boot-Study-3d499f17532142a69caf22a2a43bcfcc?pvs=4" target="_blank">Link</a></td>
 					<td data-th="border px-4 py-2">화목토 21~22시</td>
 				  </tr>
 				  <tr>
