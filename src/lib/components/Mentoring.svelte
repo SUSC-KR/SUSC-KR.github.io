@@ -24,7 +24,7 @@
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">유니티</td>
-					<td data-th="border px-4 py-2">강은호 & (부)김상민 멘토</td>
+					<td data-th="border px-4 py-2">강은호 & (부)박상민 멘토</td>
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">예제를 중심으로 배우는 Unity 기초부터 실습까지</td>
 					<td data-th="border px-4 py-2"><a href="https://docs.google.com/spreadsheets/d/1NC0P-FZkoe4KyZSWQhIsme1S-83ACzb2hBVVS1z1THA/edit?usp=sharing" target="_blank">Link</a></td>
