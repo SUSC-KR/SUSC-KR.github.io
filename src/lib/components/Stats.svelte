@@ -87,7 +87,7 @@
 					<td class="border px-4 py-2">KERT 회장</td>
 				</tr>
 				<tr>
-					<td class="border px-4 py-2">정재현</td>
+					<td class="border px-4 py-2">정재헌</td>
 					<td class="border px-4 py-2"><a href="https://github.com/SeoLanee" class="underline" target="_blank">@SeoLanee</a></td>
 					<td class="border px-4 py-2">보안 동아리 회장</td>
 				</tr>
