@@ -43,8 +43,8 @@
 					<td data-th="border px-4 py-2">매주 일요일 22~23시</td>
 				  </tr>
 				  <tr>
-					<td data-th="border px-4 py-2">벡엔드</td>
-					<td data-th="border px-4 py-2">이수영</td>
+					<td data-th="border px-4 py-2">백엔드</td>
+					<td data-th="border px-4 py-2">이수영 멘토</td>
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">Java & Spring Boot로 구현하는 웹 게시판</td>
 					<td data-th="border px-4 py-2"><a href="https://piquant-increase-d76.notion.site/Spring-Boot-Study-3d499f17532142a69caf22a2a43bcfcc?pvs=4" target="_blank">Link</a></td>
@@ -60,27 +60,27 @@
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">머신러닝 딥러닝 Basic</td>
-					<td data-th="border px-4 py-2">멘토</td>
+					<td data-th="border px-4 py-2">추영욱 & 이준원 멘토</td>
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">머신러닝/딥러닝 이론 및 실습</td>
 					<td data-th="border px-4 py-2"><a href="https://docs.google.com/spreadsheets/d/1_ekljyrGLFMFiGZhTnd-xd8Pf497IVvLrcBGzrIX_84/edit?usp=sharing" target="_blank">Link</a></td>
-					<td data-th="border px-4 py-2">미정</td>
+					<td data-th="border px-4 py-2">상시 (신청 형태)</td>
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">NLP</td>
-					<td data-th="border px-4 py-2">멘토</td>
+					<td data-th="border px-4 py-2">추영욱 & 이준원 멘토</td>
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">Text preprocessing부터 GPT까지</td>
 					<td data-th="border px-4 py-2"><a href="https://docs.google.com/spreadsheets/d/1q-tnYEn8MSOub7WbS99r_61x4fq-2fU5B5FBzKFdZMU/edit?usp=sharing" target="_blank">Link</a></td>
-					<td data-th="border px-4 py-2">미정</td>
+					<td data-th="border px-4 py-2">상시 (신청 형태)</td>
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">CV</td>
-					<td data-th="border px-4 py-2">멘토</td>
+					<td data-th="border px-4 py-2">추영욱 & 이준원 멘토</td>
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">OpenCV를 활용한 컴퓨터비전 기초부터 활용까지</td>
 					<td data-th="border px-4 py-2"><a href="https://docs.google.com/spreadsheets/d/15OvnnvtJoMffhHH8cO83KuX_Kg3Y8OCrNN7zMRcmbMA/edit?usp=sharing" target="_blank">Link</a></td>
-					<td data-th="border px-4 py-2">미정</td>
+					<td data-th="border px-4 py-2">상시 (신청 형태)</td>
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">AI 논문리딩</td>
