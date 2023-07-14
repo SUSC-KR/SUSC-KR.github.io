@@ -14,7 +14,7 @@
 					<th class="px-4 py-2">방식</th>
 					<th class="px-4 py-2">다루는 내용</th>
 					<th class="px-4 py-2">커리큘럼</th>
-					<th class="px-4 py-2">멘토링 시간</th>
+					<th class="px-4 py-2">고정 멘토링 시간</th>
 				  </tr>
 				</thead>
 				<tbody>
