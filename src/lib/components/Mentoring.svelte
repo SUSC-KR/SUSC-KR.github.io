@@ -60,19 +60,19 @@
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">머신러닝 딥러닝 Basic</td>
-					<td data-th="border px-4 py-2">Pytorch Korea User Group&SK 데보션 박정환 멘토</td>
+					<td data-th="border px-4 py-2">데보션 박정환 멘토</td>
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">머신러닝/딥러닝 이론 및 실습</td>
 					<td data-th="border px-4 py-2"><a href="https://docs.google.com/spreadsheets/d/1_ekljyrGLFMFiGZhTnd-xd8Pf497IVvLrcBGzrIX_84/edit?usp=sharing" target="_blank">Link</a></td>
-					<td data-th="border px-4 py-2">상시 (신청 형태)</td>
+					<td data-th="border px-4 py-2">데보션 API (디스코드 봇)</td>
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">NLP</td>
-					<td data-th="border px-4 py-2">추영욱 & 이준원 멘토</td>
+					<td data-th="border px-4 py-2">데보션 윤주성 멘토</td>
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">Text preprocessing부터 GPT까지</td>
 					<td data-th="border px-4 py-2"><a href="https://docs.google.com/spreadsheets/d/1q-tnYEn8MSOub7WbS99r_61x4fq-2fU5B5FBzKFdZMU/edit?usp=sharing" target="_blank">Link</a></td>
-					<td data-th="border px-4 py-2">상시 (신청 형태)</td>
+					<td data-th="border px-4 py-2">데보션 API (디스코드 봇)</td>
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">CV</td>
