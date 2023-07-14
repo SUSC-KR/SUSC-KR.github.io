@@ -60,7 +60,7 @@
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">머신러닝 딥러닝 Basic</td>
-					<td data-th="border px-4 py-2">추영욱 & 이준원 멘토</td>
+					<td data-th="border px-4 py-2">Pytorch Korea User Group&SK 데보션 박정환 멘토</td>
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">머신러닝/딥러닝 이론 및 실습</td>
 					<td data-th="border px-4 py-2"><a href="https://docs.google.com/spreadsheets/d/1_ekljyrGLFMFiGZhTnd-xd8Pf497IVvLrcBGzrIX_84/edit?usp=sharing" target="_blank">Link</a></td>
