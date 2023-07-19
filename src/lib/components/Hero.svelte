@@ -20,7 +20,7 @@
 				Seasonal University study & communication
 			</div>
 
-			<Countdown />
+			<!-- <Countdown /> -->
 			<br>
 			<div class="flex gap-4 justify-center">
 				<a href="https://forms.gle/tPQ9oBb8oTsQh9jT8" target="_blank"><button class="btn btn-primary transition-color duration-300 text-lg">신청하기</button></a>

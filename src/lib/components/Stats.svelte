@@ -3,7 +3,7 @@
 	<div class="stats flex flex-col lg:flex-row bg-base-100 shadow-lg w-[43%] mx-auto">
 		<div class="stat">
 			<div class="stat-title">Total Members</div>
-			<div class="stat-value text-primary">142</div>
+			<div class="stat-value text-primary">82</div>
 		</div>
 		<div class="stat">
 			<div class="stat-title">Number of participating universities</div>
