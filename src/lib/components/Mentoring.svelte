@@ -92,11 +92,11 @@
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">C++</td>
-					<td data-th="border px-4 py-2">운영진</td>
-					<td data-th="border px-4 py-2">스터디</td>
+					<td data-th="border px-4 py-2">김서윤 멘토</td>
+					<td data-th="border px-4 py-2">강의 + 스터디</td>
 					<td data-th="border px-4 py-2">C++ 기초 및 STL 기초</td>
 					<td data-th="border px-4 py-2"><a href="https://docs.google.com/spreadsheets/d/1WlslcfPm5PFhMBs96AAMcU80EQQJzLq_LDnslzg8dKs/edit?usp=sharing" target="_blank">Link</a></td>
-					<td data-th="border px-4 py-2">상시 (신청 형태)</td>
+					<td data-th="border px-4 py-2">월목 21시~22시</td>
 				  </tr>
 				  <tr>
 					<td data-th="border px-4 py-2">Python</td>
