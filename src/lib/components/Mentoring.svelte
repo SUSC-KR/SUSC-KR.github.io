@@ -55,7 +55,7 @@
 					<td data-th="border px-4 py-2">김현우 멘토</td>
 					<td data-th="border px-4 py-2">스터디</td>
 					<td data-th="border px-4 py-2">플러터를 활용해서 투두 앱 만들기</td>
-					<td data-th="border px-4 py-2"><a href="https://coalery.notion.site/SUSC-2023S-Flutter-954a0f619ca94a68920e020461e9403f" target="_blank">Link</a></td>
+					<td data-th="border px-4 py-2"><a href="https://coalery.notion.site/SUSC-2023S-Flutter-Curriculum-4a912835ce8d44b3885a543f1fbf3237?pvs=4" target="_blank">Link</a></td>
 					<td data-th="border px-4 py-2">토일 21~24시</td>
 				  </tr>
 				  <tr>
