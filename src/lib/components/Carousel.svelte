@@ -6,7 +6,8 @@
 				src="/flutter.mp4"
 				autoplay
 				loop
-				muted>
+				muted
+				playsinline>
 		</video>
 	</div>
 
@@ -16,7 +17,8 @@
 				src="/spring.mp4"
 				autoplay
 				loop
-				muted>
+				muted
+				playsinline>
 		</video>
 	</div>
 
