@@ -1,6 +1,6 @@
 <div class="p-4 xl:p-10 bg-base-300 my-10 rounded-lg">
 	<div class="text-3xl font-bold text-center my-5">status</div>
-	<div class="stats flex flex-col lg:flex-row bg-base-100 shadow-lg w-[43%] mx-auto">
+	<div class="stats flex flex-col lg:flex-row bg-base-100 shadow-lg w-auto sm:w-[43%] lg:w-[43%] xl:w-[43%] mx-auto">
 		<div class="stat">
 			<div class="stat-title">Total Members</div>
 			<div class="stat-value text-primary">82</div>
