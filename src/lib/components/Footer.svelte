@@ -1,7 +1,7 @@
 <footer class="footer footer-center p-10 bg-primary text-primary-content">
 	<div>
 
-		<img src="https://github.com/SUSC-KR/SUSC-KR.github.io/assets/63298243/1c1f8d4c-5e8a-4e36-a06a-f27ff933cc8e" alt="susc" width="250"
+		<img src="/susc.png" alt="susc" width="250"
 		height="50">
 
 		<!-- <p class="font-bold">
