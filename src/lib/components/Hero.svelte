@@ -10,7 +10,7 @@
 </div>
 <div
 	class="hero h-[100vh] lg:h-[45rem] shadow-lg"
-	style="background-image: url('/banner.png');"
+	style="background-image: url('/banner.jpg');"
 >
 	<div class="hero-overlay bg-opacity-70" />
 	<div class="hero-content text-neutral-content">

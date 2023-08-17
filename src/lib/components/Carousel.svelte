@@ -25,7 +25,7 @@
     <div class="carousel-item contents hover:scale-[102%] transition-all duration-300">
         <video
                 class="w-[100%] sm:w-[52%] lg:w-[52%] xl:w-[52%] rounded-lg shadow-lg"
-                src="/python.mov"
+                src="/python.mp4"
                 autoplay
                 loop
                 muted
