@@ -1,4 +1,4 @@
-<div class="text-4xl font-bold text-center my-5"><br>2023 Summer<br>성과공유회</div>
+<div class="text-4xl font-bold text-center my-5"><br>2023 Summer<br></div>
 <div class="carousel carousel-center flex gap-10 py-10 scroll-smooth">
     <div class="carousel-item contents hover:scale-[102%] transition-all duration-300">
         <video
