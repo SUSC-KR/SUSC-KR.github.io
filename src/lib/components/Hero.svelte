@@ -23,7 +23,8 @@
 			<!-- <Countdown /> -->
 			<br>
 			<div class="flex gap-4 justify-center">
-				<a href="https://forms.gle/tPQ9oBb8oTsQh9jT8" target="_blank"><button class="btn btn-primary transition-color duration-300 text-lg">신청하기</button></a>
+				<!-- <a href="https://forms.gle/tPQ9oBb8oTsQh9jT8" target="_blank"><button class="btn btn-primary transition-color duration-300 text-lg">신청하기</button></a> -->
+				<a href="https://vvd.bz/coI8" target="_blank"><button class="btn btn-primary transition-color duration-300 text-lg">2023 Summer Report</button></a>
 				<a href="https://open.kakao.com/me/susc" target="_blank"><button class="btn transition-color duration-300 text-lg">동아리 문의하기</button></a>
 			</div>
 		</div>
