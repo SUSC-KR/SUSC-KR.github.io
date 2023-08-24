@@ -77,7 +77,7 @@
 	<div class="hero-content flex-col lg:flex-row xl:gap-32">
 		<img
 			alt="hero"
-			src="/summer2023.jpg"
+			src="/suscnet.png"
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center w-auto">
