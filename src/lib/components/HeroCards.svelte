@@ -54,7 +54,7 @@
 	<div class="hero-content flex-col lg:flex-row-reverse xl:gap-32">
 		<img
 			alt="hero"
-			src="/mentors.png"
+			src="/mentor1.png"
 			class="h-80 w-[80%] object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center w-full">
@@ -77,7 +77,7 @@
 	<div class="hero-content flex-col lg:flex-row xl:gap-32">
 		<img
 			alt="hero"
-			src="/proj.jpg"
+			src="/summer2023.JPG"
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center w-auto">
@@ -92,10 +92,15 @@
 </div>
 
 <div class="hero min-h-full bg-base-200 rounded-lg">
-	<div class="hero-content flex-col lg:flex-row-reverse xl:gap-32">
+	<div class="hero-content flex-col lg:flex-row-reverse">
 		<img
 			alt="hero"
 			src="papers.jpg"
+			class="h-80 w-full object-cover rounded-lg shadow-lg"
+		/>
+		<img
+			alt="hero"
+			src="papers2.png"
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center w-full">

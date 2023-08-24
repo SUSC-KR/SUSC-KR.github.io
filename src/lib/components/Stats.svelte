@@ -6,7 +6,7 @@
 			<div class="stat-value text-primary">82</div>
 		</div>
 		<div class="stat">
-			<div class="stat-title">Number of participating universities</div>
+			<div class="stat-title">Number of Univ</div>
 			<div class="stat-value text-primary-focus">6</div>
 		</div>
 	</div>
@@ -64,37 +64,37 @@
 				<tr>
 					<td class="border px-4 py-2">김현우</td>
 					<td class="border px-4 py-2"><a href="https://github.com/Coalery" class="underline" target="_blank">@Coalery</a></td>
-					<td class="border px-4 py-2">KHLUG 운영진</td>
+					<td class="border px-4 py-2">KHLUG</td>
 				</tr>
 				<tr>
 					<td class="border px-4 py-2">박정식</td>
 					<td class="border px-4 py-2"><a href="https://github.com/sat0317" class="underline" target="_blank">@sat0317</a></td>
-					<td class="border px-4 py-2">KHLUG 운영진</td>
+					<td class="border px-4 py-2">KHLUG</td>
 				</tr>
 				<tr>
 					<td class="border px-4 py-2">이준원</td>
 					<td class="border px-4 py-2"><a href="https://github.com/cpprhtn" class="underline" target="_blank">@cpprhtn</a></td>
-					<td class="border px-4 py-2">MLP 회장</td>
+					<td class="border px-4 py-2">MLP</td>
 				</tr>
 				<tr>
 					<td class="border px-4 py-2">이지성</td>
 					<td class="border px-4 py-2"><a href="https://github.com/easycastle" class="underline" target="_blank">@easycastle</a></td>
-					<td class="border px-4 py-2">KERT 임원</td>
+					<td class="border px-4 py-2">KERT</td>
 				</tr>
 				<tr>
 					<td class="border px-4 py-2">이현우</td>
 					<td class="border px-4 py-2"><a href="https://github.com/gusdndl" class="underline" target="_blank">@gusdndl</a></td>
-					<td class="border px-4 py-2">KERT 회장</td>
+					<td class="border px-4 py-2">KERT</td>
 				</tr>
 				<tr>
 					<td class="border px-4 py-2">정재헌</td>
 					<td class="border px-4 py-2"><a href="https://github.com/SeoLanee" class="underline" target="_blank">@SeoLanee</a></td>
-					<td class="border px-4 py-2">보안 동아리 회장</td>
+					<td class="border px-4 py-2">보안 동아리</td>
 				</tr>
 				<tr>
 					<td class="border px-4 py-2">추영욱</td>
 					<td class="border px-4 py-2"><a href="https://github.com/choo121600" class="underline" target="_blank">@choo121600</a></td>
-					<td class="border px-4 py-2">Bet A 회장</td>
+					<td class="border px-4 py-2">Bet A</td>
 				</tr>
 				</tbody>
 			</table>
