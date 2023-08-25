@@ -2,7 +2,7 @@
 <div class="carousel carousel-center flex gap-10 py-10 scroll-smooth">    
     <div class="carousel-item contents hover:scale-[102%] transition-all duration-300">
         <video
-                class="w-49 sm:w-56 lg:w-65 xl:w-73 rounded-lg shadow-lg"
+                class="w-[40%] sm:w-56 lg:w-65 xl:w-73 rounded-lg shadow-lg"
                 src="/flutter.mp4"
                 autoplay
                 loop
@@ -47,7 +47,7 @@
         <img
 			alt="hero"
 			src="/paperread.png"
-			class="w-[51%] sm:w-[51%] lg:w-[51%] xl:w-[51%] rounded-lg shadow-lg"
+			class="w-[120%] sm:w-[51%] lg:w-[51%] xl:w-[51%] rounded-lg shadow-lg"
 		/>
     </div>
 
@@ -55,7 +55,7 @@
         <img
 			alt="hero"
 			src="/reverse.png"
-			class="w-[51%] sm:w-[51%] lg:w-[51%] xl:w-[51%] rounded-lg shadow-lg"
+			class="w-[120%] sm:w-[51%] lg:w-[51%] xl:w-[51%] rounded-lg shadow-lg"
 		/>
     </div>
 
@@ -63,15 +63,39 @@
         <img
 			alt="hero"
 			src="/blockchine.png"
-			class="w-[51%] sm:w-[51%] lg:w-[51%] xl:w-[51%] rounded-lg shadow-lg"
+			class="w-[120%] sm:w-[51%] lg:w-[51%] xl:w-[51%] rounded-lg shadow-lg"
 		/>
     </div>    
 
     <div class="carousel-item contents hover:scale-[102%] transition-all duration-300">
         <img
 			alt="hero"
-			src="/baekjoon.png"
-			class="w-[51%] sm:w-[51%] lg:w-[51%] xl:w-[51%] rounded-lg shadow-lg"
+			src="/unity.png"
+			class="w-[120%] sm:w-[51%] lg:w-[51%] xl:w-[51%] rounded-lg shadow-lg"
+		/>
+    </div> 
+    
+    <div class="carousel-item contents hover:scale-[102%] transition-all duration-300">
+        <img
+			alt="hero"
+			src="/flutter.png"
+			class="w-[120%] sm:w-[51%] lg:w-[51%] xl:w-[51%] rounded-lg shadow-lg"
+		/>
+    </div>
+
+    <div class="carousel-item contents hover:scale-[102%] transition-all duration-300">
+        <img
+			alt="hero"
+			src="/spring.png"
+			class="w-[120%] sm:w-[51%] lg:w-[51%] xl:w-[51%] rounded-lg shadow-lg"
+		/>
+    </div>
+
+    <div class="carousel-item contents hover:scale-[102%] transition-all duration-300">
+        <img
+			alt="hero"
+			src="/algo.png"
+			class="w-[120%] sm:w-[51%] lg:w-[51%] xl:w-[51%] rounded-lg shadow-lg"
 		/>
     </div>
 </div>

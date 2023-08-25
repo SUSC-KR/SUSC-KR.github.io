@@ -37,15 +37,10 @@
 			<h1 class="text-3xl font-bold">전문 분야별 세미나</h1>
 			<br>
 			<a href="https://www.youtube.com/@SUSCkr">
-				<button class="btn btn-primary w-full">
+				<button class="btn btn-primary w-60">
 					<div>다시보기</div>
 				</button>
 			</a>
-			<!-- <p class="py-6">
-				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-				quasi. In deleniti eaque aut repudiandae et a id nisi.
-			</p> -->
-			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
 	</div>
 </div>
@@ -55,17 +50,13 @@
 		<img
 			alt="hero"
 			src="/mentor1.png"
-			class="h-80 w-[80%] object-cover rounded-lg shadow-lg"
+			class="h-80 w-[100%] object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center w-full">
 			<h1 class="text-3xl font-bold w-full">현업 전문가<br> 멘토링</h1>
-			<!-- <p class="py-6">
-				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-				quasi. In deleniti eaque aut repudiandae et a id nisi.
-			</p> -->
 			<br>
 			<a href="{base}/mentoring">
-				<button class="btn btn-primary w-full">
+				<button class="btn btn-primary w-60">
 					<div>TimeTable</div>
 				</button>
 			</a>
@@ -82,11 +73,6 @@
 		/>
 		<div class="text-center w-auto">
 			<h1 class="text-3xl font-bold">프로젝트 및 공모전</h1>
-			<!-- <p class="py-6">
-				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-				quasi. In deleniti eaque aut repudiandae et a id nisi.
-			</p> -->
-			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
 	</div>
 </div>
@@ -105,11 +91,6 @@
 		/>
 		<div class="text-center w-full">
 			<h1 class="text-3xl font-bold m-auto">연구 활동 및 주제 탐구</h1>
-			<!-- <p class="py-6">
-				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-				quasi. In deleniti eaque aut repudiandae et a id nisi.
-			</p> -->
-			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
 	</div>
 </div>
