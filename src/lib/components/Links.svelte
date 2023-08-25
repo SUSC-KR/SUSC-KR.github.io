@@ -2,22 +2,22 @@
 	import { base } from "$app/paths";
 </script>
 
-<div class="flex flex-col md:flex-row gap-2 xl:gap-5">
+<div class="flex flex-col md:flex-row gap-2 xl:gap-5 justify-center items-center">
 	<a
-		class="w-full bg-base-100 rounded-lg shadow-lg p-4 text-xl font-bold text-center hover:bg-base-300 transition-all duration-300"
-		href="https://discord.gg/u4F6JywE"
+		class="w-[25%] bg-base-100 rounded-lg shadow-lg p-4 text-xl font-bold text-center hover:bg-base-300 transition-all duration-300"
+		href="{base}/"
 	>
 		<div>Discord</div>
 	</a>
 
 	<a
-		class="w-full bg-base-100 rounded-lg shadow-lg p-4 text-xl font-bold text-center hover:bg-base-300 transition-all duration-300"
+		class="w-[25%] bg-base-100 rounded-lg shadow-lg p-4 text-xl font-bold text-center hover:bg-base-300 transition-all duration-300"
 		href="{base}/"
 	>
-		<div>Repository</div>
+		<div>Github</div>
 	</a>
 
-	<a
+	<!-- <a
 		class="w-full bg-base-100 rounded-lg shadow-lg p-4 text-xl font-bold text-center hover:bg-base-300 transition-all duration-300"
 		href="{base}/"
 	>
@@ -29,5 +29,5 @@
 		href="{base}/"
 	>
 		<div>Contact</div>
-	</a>
+	</a> -->
 </div>
