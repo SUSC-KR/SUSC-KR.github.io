@@ -33,7 +33,6 @@
         </video>
     </div>
 </div>
-
 <div class="carousel carousel-center flex gap-10 py-10 scroll-smooth">
     <div class="carousel-item contents hover:scale-[102%] transition-all duration-300">
         <img

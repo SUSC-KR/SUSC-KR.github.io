@@ -36,7 +36,7 @@
 		<div class="text-center max-w-lg">
 			<h1 class="text-3xl font-bold">전문 분야별 세미나</h1>
 			<br>
-			<a href="https://www.youtube.com/@SUSCkr">
+			<a href="https://www.youtube.com/@SUSCkr" target="_blank">
 				<button class="btn btn-primary w-60">
 					<div>다시보기</div>
 				</button>
@@ -90,7 +90,13 @@
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center w-full">
-			<h1 class="text-3xl font-bold m-auto">연구 활동 및 주제 탐구</h1>
+			<h1 class="text-3xl font-bold m-auto">연구 활동 및<br>주제 탐구</h1>
+			<br>
+			<a href="https://github.com/SUSC-KR/Read-the-papers" target="_blank">
+				<button class="btn btn-primary w-60">
+					<div>Papers List</div>
+				</button>
+			</a>
 		</div>
 	</div>
 </div>
