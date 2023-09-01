@@ -15,7 +15,7 @@
 	<div class="hero-overlay bg-opacity-70" />
 	<div class="hero-content text-neutral-content">
 		<div class="z-60 drop-shadow-lg text-center">
-			<div class="mb-5 text-8xl font-semibold">SUSC</div>
+			<div class="mb-5 text-8xl font-semibold"><h1>SUSC</h1></div>
 			<div class="mb-10 text-xl">
 				Seasonal University study & communication
 			</div>
