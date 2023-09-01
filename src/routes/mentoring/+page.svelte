@@ -3,7 +3,7 @@
 </script>
 
 <head>
-  <link rel="canonical" href="https://www.susc.kr">
+  <link rel="canonical" href="https://susc.kr">
 </head>
 
 <div>
