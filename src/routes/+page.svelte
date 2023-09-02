@@ -3,6 +3,7 @@
 	import Hero from '$lib/components/Hero.svelte';
 	import Stats from '$lib/components/Stats.svelte';
 	import HeroCards from '$lib/components/HeroCards.svelte';
+	import Links from '$lib/components/Links.svelte';
 </script>
 
 <div>
@@ -22,8 +23,8 @@
 			<HeroCards />
 		</div>
 
-		<!-- <div class="my-10">
+		<div class="my-10">
 			<Links />
-		</div>	 -->
+		</div>	
 	</div>
 </div>
