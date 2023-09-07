@@ -14,7 +14,7 @@
 	<div class="max-w-lg mx-auto pb-10">
 		<div class="text-3xl font-bold text-center my-5 mt-20">참여 동아리</div>
 		<div class="text-lg text-center my-5 border-b-2">
-			<table class="table-auto text-xl mx-auto bg-gray-100">
+			<table class="table-auto text-xl mx-auto bg-gray-100 w-[100%]">
 				<thead>
 				  <tr>
 					<th class="py-2">대학교</th>
@@ -31,6 +31,14 @@
 					<td class="border py-2">KHLUG</td>
 				  </tr>
 				  <tr>
+					<td class="border py-2">금오공과대학교</td>
+					<td class="border py-2">신규참여</td>
+				  </tr>
+				  <tr>
+					<td class="border py-2">동국대학교</td>
+					<td class="border py-2">신규참여</td>
+				  </tr>
+				  <tr>
 					<td class="border py-2">동아대학교</td>
 					<td class="border py-2">MLP</td>
 				  </tr>
@@ -39,8 +47,28 @@
 					<td class="border py-2">보안 동아리</td>
 				  </tr>
 				  <tr>
+					<td class="border py-2">서울과학기술대학교</td>
+					<td class="border py-2">신규참여</td>
+				  </tr>
+				  <tr>
+					<td class="border py-2">서울여자대학교</td>
+					<td class="border py-2">신규참여</td>
+				  </tr>
+				  <tr>
+					<td class="border py-2">연세대학교</td>
+					<td class="border py-2">신규참여</td>
+				  </tr>
+				  <tr>
 					<td class="border py-2">한국해양대학교</td>
 					<td class="border py-2">Bet A</td>
+				  </tr>
+				  <tr>
+					<td class="border py-2">한국공학대학교</td>
+					<td class="border py-2">신규참여</td>
+				  </tr>
+				  <tr>
+					<td class="border py-2">한남대학교</td>
+					<td class="border py-2">신규참여</td>
 				  </tr>
 				  <tr>
 					<td class="border py-2">한양대학교</td>
