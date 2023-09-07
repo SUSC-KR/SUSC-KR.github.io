@@ -59,12 +59,16 @@
 					<td class="border py-2">신규참여</td>
 				  </tr>
 				  <tr>
-					<td class="border py-2">한국해양대학교</td>
-					<td class="border py-2">Bet A</td>
-				  </tr>
-				  <tr>
 					<td class="border py-2">한국공학대학교</td>
 					<td class="border py-2">신규참여</td>
+				  </tr>
+				  <tr>
+					<td class="border py-2">한국외국어대학교</td>
+					<td class="border py-2">신규참여</td>
+				  </tr>
+				  <tr>
+					<td class="border py-2">한국해양대학교</td>
+					<td class="border py-2">Bet A</td>
 				  </tr>
 				  <tr>
 					<td class="border py-2">한남대학교</td>
