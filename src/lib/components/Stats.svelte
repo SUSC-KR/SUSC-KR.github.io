@@ -43,6 +43,10 @@
 					<td class="border py-2">MLP</td>
 				  </tr>
 				  <tr>
+					<td class="border py-2">배재대학교</td>
+					<td class="border py-2">신규참여</td>
+				  </tr>
+				  <tr>
 					<td class="border py-2">서강대학교</td>
 					<td class="border py-2">보안 동아리</td>
 				  </tr>
@@ -56,6 +60,10 @@
 				  </tr>
 				  <tr>
 					<td class="border py-2">연세대학교</td>
+					<td class="border py-2">신규참여</td>
+				  </tr>
+				  <tr>
+					<td class="border py-2">우송대학교</td>
 					<td class="border py-2">신규참여</td>
 				  </tr>
 				  <tr>
